@@ -1,0 +1,489 @@
+size,10000
+seed,1
+implementation,./run_merge_sort.sh
+runtime, 244.436035156
+comparisons, 120360
+---------------------
+size,10000
+seed,1
+implementation,./run_heapsort.sh
+runtime,133.837890625
+comparisons,235415
+---------------------
+size,10000
+seed,1
+implementation,./run_sort_utility.sh
+runtime,30.4721679688
+comparisons,119944
+---------------------
+size,10000
+seed,2
+implementation,./run_merge_sort.sh
+runtime, 133.134033203
+comparisons, 120319
+---------------------
+size,10000
+seed,2
+implementation,./run_heapsort.sh
+runtime,135.989990234
+comparisons,235177
+---------------------
+size,10000
+seed,2
+implementation,./run_sort_utility.sh
+runtime,21.8742675781
+comparisons,119890
+---------------------
+size,10000
+seed,3
+implementation,./run_merge_sort.sh
+runtime, 160.062988281
+comparisons, 120519
+---------------------
+size,10000
+seed,3
+implementation,./run_heapsort.sh
+runtime,156.202148438
+comparisons,235527
+---------------------
+size,10000
+seed,3
+implementation,./run_sort_utility.sh
+runtime,75.9880371094
+comparisons,119965
+---------------------
+size,10000
+seed,4
+implementation,./run_merge_sort.sh
+runtime, 234.339111328
+comparisons, 120401
+---------------------
+size,10000
+seed,4
+implementation,./run_heapsort.sh
+runtime,152.037841797
+comparisons,235314
+---------------------
+size,10000
+seed,4
+implementation,./run_sort_utility.sh
+runtime,19.7888183594
+comparisons,119831
+---------------------
+size,10000
+seed,5
+implementation,./run_merge_sort.sh
+runtime, 163.262207031
+comparisons, 120409
+---------------------
+size,10000
+seed,5
+implementation,./run_heapsort.sh
+runtime,287.692871094
+comparisons,235234
+---------------------
+size,10000
+seed,5
+implementation,./run_sort_utility.sh
+runtime,32.8200683594
+comparisons,119852
+---------------------
+size,20000
+seed,1
+implementation,./run_merge_sort.sh
+runtime, 432.864990234
+comparisons, 260770
+---------------------
+size,20000
+seed,1
+implementation,./run_heapsort.sh
+runtime,310.658935547
+comparisons,510910
+---------------------
+size,20000
+seed,1
+implementation,./run_sort_utility.sh
+runtime,42.0268554688
+comparisons,259832
+---------------------
+size,20000
+seed,2
+implementation,./run_merge_sort.sh
+runtime, 290.901123047
+comparisons, 260780
+---------------------
+size,20000
+seed,2
+implementation,./run_heapsort.sh
+runtime,261.700195312
+comparisons,510659
+---------------------
+size,20000
+seed,2
+implementation,./run_sort_utility.sh
+runtime,40.7060546875
+comparisons,259789
+---------------------
+size,20000
+seed,3
+implementation,./run_merge_sort.sh
+runtime, 399.645996094
+comparisons, 261026
+---------------------
+size,20000
+seed,3
+implementation,./run_heapsort.sh
+runtime,477.257080078
+comparisons,511014
+---------------------
+size,20000
+seed,3
+implementation,./run_sort_utility.sh
+runtime,186.450927734
+comparisons,259769
+---------------------
+size,20000
+seed,4
+implementation,./run_merge_sort.sh
+runtime, 850.601806641
+comparisons, 260904
+---------------------
+size,20000
+seed,4
+implementation,./run_heapsort.sh
+runtime,395.987792969
+comparisons,510868
+---------------------
+size,20000
+seed,4
+implementation,./run_sort_utility.sh
+runtime,40.7348632812
+comparisons,259783
+---------------------
+size,20000
+seed,5
+implementation,./run_merge_sort.sh
+runtime, 302.354736328
+comparisons, 260927
+---------------------
+size,20000
+seed,5
+implementation,./run_heapsort.sh
+runtime,350.096923828
+comparisons,510623
+---------------------
+size,20000
+seed,5
+implementation,./run_sort_utility.sh
+runtime,44.7541503906
+comparisons,259788
+---------------------
+size,40000
+seed,1
+implementation,./run_merge_sort.sh
+runtime, 656.904052734
+comparisons, 561739
+---------------------
+size,40000
+seed,1
+implementation,./run_heapsort.sh
+runtime,653.334228516
+comparisons,1101832
+---------------------
+size,40000
+seed,1
+implementation,./run_sort_utility.sh
+runtime,106.263916016
+comparisons,559628
+---------------------
+size,40000
+seed,2
+implementation,./run_merge_sort.sh
+runtime, 645.649902344
+comparisons, 561704
+---------------------
+size,40000
+seed,2
+implementation,./run_heapsort.sh
+runtime,557.270019531
+comparisons,1101510
+---------------------
+size,40000
+seed,2
+implementation,./run_sort_utility.sh
+runtime,114.600097656
+comparisons,559524
+---------------------
+size,40000
+seed,3
+implementation,./run_merge_sort.sh
+runtime, 665.318847656
+comparisons, 561757
+---------------------
+size,40000
+seed,3
+implementation,./run_heapsort.sh
+runtime,638.400878906
+comparisons,1101440
+---------------------
+size,40000
+seed,3
+implementation,./run_sort_utility.sh
+runtime,110.899902344
+comparisons,559657
+---------------------
+size,40000
+seed,4
+implementation,./run_merge_sort.sh
+runtime, 620.752197266
+comparisons, 561799
+---------------------
+size,40000
+seed,4
+implementation,./run_heapsort.sh
+runtime,687.616943359
+comparisons,1101656
+---------------------
+size,40000
+seed,4
+implementation,./run_sort_utility.sh
+runtime,144.078125
+comparisons,559579
+---------------------
+size,40000
+seed,5
+implementation,./run_merge_sort.sh
+runtime, 629.5078125
+comparisons, 561658
+---------------------
+size,40000
+seed,5
+implementation,./run_heapsort.sh
+runtime,654.479003906
+comparisons,1101470
+---------------------
+size,40000
+seed,5
+implementation,./run_sort_utility.sh
+runtime,168.065185547
+comparisons,559662
+---------------------
+size,80000
+seed,1
+implementation,./run_merge_sort.sh
+runtime, 1316.65380859
+comparisons, 1203356
+---------------------
+size,80000
+seed,1
+implementation,./run_heapsort.sh
+runtime,1246.54882812
+comparisons,2363611
+---------------------
+size,80000
+seed,1
+implementation,./run_sort_utility.sh
+runtime,271.687988281
+comparisons,1199283
+---------------------
+size,80000
+seed,2
+implementation,./run_merge_sort.sh
+runtime, 1209.76806641
+comparisons, 1203434
+---------------------
+size,80000
+seed,2
+implementation,./run_heapsort.sh
+runtime,1293.37719727
+comparisons,2363143
+---------------------
+size,80000
+seed,2
+implementation,./run_sort_utility.sh
+runtime,249.971923828
+comparisons,1199107
+---------------------
+size,80000
+seed,3
+implementation,./run_merge_sort.sh
+runtime, 1223.46899414
+comparisons, 1203470
+---------------------
+size,80000
+seed,3
+implementation,./run_heapsort.sh
+runtime,1290.2019043
+comparisons,2362760
+---------------------
+size,80000
+seed,3
+implementation,./run_sort_utility.sh
+runtime,251.392089844
+comparisons,1199113
+---------------------
+size,80000
+seed,4
+implementation,./run_merge_sort.sh
+runtime, 1264.14208984
+comparisons, 1203598
+---------------------
+size,80000
+seed,4
+implementation,./run_heapsort.sh
+runtime,1257.60205078
+comparisons,2362790
+---------------------
+size,80000
+seed,4
+implementation,./run_sort_utility.sh
+runtime,259.024902344
+comparisons,1199212
+---------------------
+size,80000
+seed,5
+implementation,./run_merge_sort.sh
+runtime, 1272.10302734
+comparisons, 1203428
+---------------------
+size,80000
+seed,5
+implementation,./run_heapsort.sh
+runtime,1243.58081055
+comparisons,2362720
+---------------------
+size,80000
+seed,5
+implementation,./run_sort_utility.sh
+runtime,262.770996094
+comparisons,1199294
+---------------------
+size,160000
+seed,1
+implementation,./run_merge_sort.sh
+runtime, 2572.01025391
+comparisons, 2567219
+---------------------
+size,160000
+seed,1
+implementation,./run_heapsort.sh
+runtime,2632.65283203
+comparisons,5046186
+---------------------
+size,160000
+seed,1
+implementation,./run_sort_utility.sh
+runtime,489.954833984
+comparisons,2558676
+---------------------
+size,160000
+seed,2
+implementation,./run_merge_sort.sh
+runtime, 3839.95703125
+comparisons, 2566913
+---------------------
+size,160000
+seed,2
+implementation,./run_heapsort.sh
+runtime,4695.6418457
+comparisons,5046192
+---------------------
+size,160000
+seed,2
+implementation,./run_sort_utility.sh
+runtime,797.193847656
+comparisons,2558170
+---------------------
+size,160000
+seed,3
+implementation,./run_merge_sort.sh
+runtime, 2838.15087891
+comparisons, 2567147
+---------------------
+size,160000
+seed,3
+implementation,./run_heapsort.sh
+runtime,3288.24975586
+comparisons,5046176
+---------------------
+size,160000
+seed,3
+implementation,./run_sort_utility.sh
+runtime,563.784179688
+comparisons,2558364
+---------------------
+size,160000
+seed,4
+implementation,./run_merge_sort.sh
+runtime, 2709.65185547
+comparisons, 2567091
+---------------------
+size,160000
+seed,4
+implementation,./run_heapsort.sh
+runtime,2771.55517578
+comparisons,5045958
+---------------------
+size,160000
+seed,4
+implementation,./run_sort_utility.sh
+runtime,520.146240234
+comparisons,2558560
+---------------------
+size,160000
+seed,5
+implementation,./run_merge_sort.sh
+runtime, 2602.34765625
+comparisons, 2567461
+---------------------
+size,160000
+seed,5
+implementation,./run_heapsort.sh
+runtime,2700.22900391
+comparisons,5045777
+---------------------
+size,160000
+seed,5
+implementation,./run_sort_utility.sh
+runtime,515.922119141
+comparisons,2558456
+---------------------
+size,320000
+seed,1
+implementation,./run_merge_sort.sh
+runtime, 5517.03588867
+comparisons, 5453960
+---------------------
+size,320000
+seed,1
+implementation,./run_heapsort.sh
+runtime,5972.83300781
+comparisons,10732036
+---------------------
+size,320000
+seed,1
+implementation,./run_sort_utility.sh
+runtime,1054.29882812
+comparisons,5437248
+---------------------
+size,320000
+seed,2
+implementation,./run_merge_sort.sh
+runtime, 5394.42407227
+comparisons, 5454484
+---------------------
+size,320000
+seed,2
+implementation,./run_heapsort.sh
+runtime,5788.95629883
+comparisons,10732833
+---------------------
+size,320000
+seed,2
+implementation,./run_sort_utility.sh
+runtime,1027.7199707
+comparisons,5436629
+---------------------
+size,320000
+seed,3
+implementation,./run_merge_sort.sh
